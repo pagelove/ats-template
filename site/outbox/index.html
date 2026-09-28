@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html lang="en" xmlns:p="https://pagelove.org/1.0">
-<head><meta charset="UTF-8"><title>Outbox — ATS email relay</title></head>
+<head><meta charset="UTF-8"><title>Outbox — Hiring by Pagelove email relay</title></head>
 <body>
 <h1>Outbox</h1>
 <p>PUT a Postmark-shaped JSON payload to <code>/outbox/E-{id}.json</code> and this trigger relays it
 to Postmark server-side (with the ATS's Server API Token attached). Fire-and-forget; failures retried
-by Example Co with exponential backoff.</p>
+by Pagelove with exponential backoff.</p>
 
 <div itemscope itemtype="https://pagelove.org/Trigger">
   <meta itemprop="resource" content="/outbox/E-*.json">

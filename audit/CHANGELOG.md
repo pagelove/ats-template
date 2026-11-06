@@ -13,3 +13,9 @@ Implemented the scoped ats batch from central FINDINGS.md: app-specific task vie
 
 ## PRODUCT-READINESS-VERIFIED — 2026-11-06T13:56:22.436Z — Codex
 User request fulfilled within scoped product task pass; see central product-readiness FINDINGS.md. Verification: affected source checks and behavioral suites passed, including all9template period/order/export helpers, CRM/invoice state tests, and garden/circuit/world finder filters; desktop/narrow-screen browser task checks and real CSV download recorded. Source records/write/trust boundaries retained; browser fixtures do not establish hosted privacy/validation or native writes. Affected files are the complete reviewed diff and SHA256 inventory, linked by this commit. Public review deployment and final acceptance tracked centrally; ATS remains local-only as previously directed.
+
+## ORG-SOURCE-PLAN — 2026-11-06T18:28:36.665Z — Codex
+User authorized pagelove/ats-template as public demo source. Preserve existing history, code and native paths; original remote repository remains unchanged. Update current README/source guidance, publish only tracked reviewed files/history, retain historical audit URLs, then verify public visibility/main identity and source checks. Parent plan: audit/2026-11-06-org-demo-sources/PLAN.md. No application deployment or data changes.
+
+## ORG-SOURCE-RESULT — 2026-11-06T18:31:35.394Z — Codex
+Plan ORG-SOURCE-PLAN: source guidance identifies pagelove/ats-template. Public repository created; source checks passed; complete ancestry retrieved before normal publication. Source/hash record: audit/org-source-20261106.json. Existing code/native paths unchanged. Original repository is not modified; parent audit records final main/public verification.

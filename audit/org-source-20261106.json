@@ -1,0 +1,16 @@
+{
+  "utc": "2026-11-06T18:31:35.390Z",
+  "actor": "Codex",
+  "userRequest": "Create a public organization repository for prepared ATS code and link it.",
+  "destination": "pagelove/ats-template",
+  "previousOrigin": "https://github.com/pagelove/pagelove-ats.git",
+  "preservedParent": "e24a2503e4725f979345aee70a806d16845cf7df",
+  "files": [
+    {
+      "file": "README.md",
+      "sha256": "b093bb7b34981a1cb256173b1d6a2c850d6d00a980de10348dbae73599d59b04"
+    }
+  ],
+  "verification": "Eight ATS HTML source checks pass. Tracked-tip and unpublished-history credential-pattern scans pass. Full original ancestry fetched; native host acceptance remains pending.",
+  "scope": "Tracked main history and reviewed source only. Original repository retained, no data/native route change."
+}

@@ -1,0 +1,39 @@
+{
+  "utc": "2026-11-06T02:46:03.704Z",
+  "actor": "Codex",
+  "guideEdition": "2.4",
+  "sourceBase": "8f200fc3bc22c0666663eb4d0d0f1f2145a68ed6",
+  "checks": [
+    {
+      "name": "eight HTML source identity/syntax checks (bundled Python; UTF-8 fixed)",
+      "code": 0
+    }
+  ],
+  "browser": "No new visual behavior; prior browser evidence remains historical. Current local source/engine checks recorded separately.",
+  "limits": [
+    "No new live private data or host policy acceptance claimed.",
+    "Physical device and assistive-technology checks remain separate."
+  ],
+  "files": [
+    {
+      "file": "AGENTS.md",
+      "sha256": "a883e3701c1568867e2982c3f53439287b83dbec8672e8705f3c1dbab2d711bd",
+      "bytes": 561
+    },
+    {
+      "file": "DOCUMENT-FIRST-REVIEW.md",
+      "sha256": "fa787d57696a970f660514332319ef39aa0a741bd9c4d045a54611ec91d6f1a6",
+      "bytes": 3446
+    },
+    {
+      "file": "README.md",
+      "sha256": "ce79a0b69c52b9c4bdd0627281e019ba4c76e116e5895b50a86294c7d479d711",
+      "bytes": 760
+    },
+    {
+      "file": "scripts/check-document-first.py",
+      "sha256": "67fc96bad141f58989cb2a047f009390ffdcb61584cbbd3bef5e80408a3dd7d8",
+      "bytes": 1629
+    }
+  ]
+}
